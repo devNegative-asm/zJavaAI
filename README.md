@@ -7,6 +7,7 @@ Usage:
 2. Set AI_NAME to the name of the file storing the neural net. this file can get large.<br>
 3. Set Bx and By to the desired image size, and MONOCHROME to true or false<br>
 4. Set up other metadata as necessary or desired.
+
 <br><br>
 The neural net can function with other data types other than images, but you first need functions that convert your data to and from nVector's.<br>
 The <b>NeuralNetHelper</b> class contains a straightforward framework to construct a neural network for any data type.
